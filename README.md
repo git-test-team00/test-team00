@@ -1,2 +1,2 @@
 # test-team00
-gi 연습
+git 연습
